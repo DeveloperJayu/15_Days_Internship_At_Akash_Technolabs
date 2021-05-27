@@ -11,17 +11,17 @@ This repository is created for my daily task of 15 Days Internship At Akash Tech
   </tr>
   
   <tr>
-    <td><b> Day :- 1 </b></td>
+    <td><b> Day:- 1 </b></td>
     <td><b> No Task Given </b></td>
   </tr>
   
   <tr>
-    <td><b> Day :- 2 </b></td>
+    <td><b> Day:- 2 </b></td>
     <td><b> To install Android Studio and create new empty project and run it in Android Emulator </b></td>
   </tr>
   
   <tr>
-    <td><b> Day :- 3 </b></td>
+    <td><b> Day:- 3 </b></td>
     <td><b> To design simple login screen with lable,email id, password and button </b></td>
   </tr>
 </table>
@@ -37,3 +37,16 @@ This repository is created for my daily task of 15 Days Internship At Akash Tech
 
 ## Day 3
 <p>In day 3 unfortunately, got some errors in Android Studio and Emulator isn't detected So, haven't learn anything about Android Studio. But checked already created applications in play store and seen how app publishing works, etc.</p>
+
+<br>
+<br>
+
+# About Internship
+
+<b> Category:- </b> Android Development <br>
+<b> Duration:- </b> 15 Days <br>
+<b> Instructor/Guide:- </b> <a href="https://www.linkedin.com/in/akashpadhiyar"> Akash Padhiyar </a> & Devanshi Prajapati
+
+# About Company
+
+<b> Visit <a href="http://akashtechnolabs.com/"> website</a> to get details of company.
