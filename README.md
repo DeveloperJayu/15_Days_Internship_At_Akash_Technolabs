@@ -51,6 +51,9 @@ This repository is created for my daily task of 15 Days Internship At Akash Tech
 
 # Link for our own task application repo:- <a href="https://github.com/DeveloperJayu/Akash_Technolabs_Internship">Akash_Technolabs_Internship</a>
 
+<br>
+<br>
+
 # About Internship
 
 <b> Category:- </b> Android Development <br>
