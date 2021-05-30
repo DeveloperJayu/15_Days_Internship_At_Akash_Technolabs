@@ -24,6 +24,11 @@ This repository is created for my daily task of 15 Days Internship At Akash Tech
     <td><b> Day:- 3 </b></td>
     <td><b> To design simple login screen with lable,email id, password and button </b></td>
   </tr>
+  
+  <tr>
+    <td><b> Day:- 4 </b></td>
+    <td><b> To create BMI Calculator </b></td>
+  </tr>
 </table>
 
 
@@ -38,8 +43,13 @@ This repository is created for my daily task of 15 Days Internship At Akash Tech
 ## Day 3
 <p>In day 3 unfortunately, got some errors in Android Studio and Emulator isn't detected So, haven't learn anything about Android Studio. But checked already created applications in play store and seen how app publishing works, etc.</p>
 
+## Day 4
+<p>In day 4, we have learnet about EditText, button click listener and have learn about simple calculator. From day 4, we have taken our own project. This application contains 10-12 mini projects like BMI Calculator, To-do app, Note app, etc. Our daily task will be create 1 thing inside the app.</p>
+
 <br>
 <br>
+
+# Link for our own task application repo:- <a href="https://github.com/DeveloperJayu/Akash_Technolabs_Internship">Akash_Technolabs_Internship</a>
 
 # About Internship
 
