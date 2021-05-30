@@ -1,6 +1,6 @@
-# Day 3 of Internship
+# Day 4 of Internship
 
-## From day 3, we have taken our own project. This application contains 10-12 mini projects like BMI Calculator, To-do app, Note app, etc. Our daily task will be create 1 thing inside the app.
+## From day 4, we have taken our own project. This application contains 10-12 mini projects like BMI Calculator, To-do app, Note app, etc. Our daily task will be create 1 thing inside the app.
 
 ### BMI Calculator
 
