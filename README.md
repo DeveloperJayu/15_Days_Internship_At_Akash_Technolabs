@@ -29,6 +29,11 @@ This repository is created for my daily task of 15 Days Internship At Akash Tech
     <td><b> Day:- 4 </b></td>
     <td><b> To create BMI Calculator </b></td>
   </tr>
+  
+  <tr>
+    <td><b> Day:- 5 </b></td>
+    <td><b> To create Prime Number Checker </b></td>
+  </tr>
 </table>
 
 
@@ -45,6 +50,9 @@ This repository is created for my daily task of 15 Days Internship At Akash Tech
 
 ## Day 4
 <p>In day 4, we have learnet about EditText, button click listener and have learn about simple calculator. From day 4, we have taken our own project. This application contains 10-12 mini projects like BMI Calculator, To-do app, Note app, etc. Our daily task will be create 1 thing inside the app.</p>
+
+## Day 4
+<p>In day 5, we have learnet about Activity life cycle, how to pass data to one activity to another activity, etc.</p>
 
 <br>
 <br>
