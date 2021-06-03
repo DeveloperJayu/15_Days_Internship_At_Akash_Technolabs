@@ -10,4 +10,4 @@
 
 <h2> Output </h2>
 
-<img src="Android Emulator - Mobile_5554 27-05-2021 19_08_56.png">
+<img src="Android Emulator - Mobile_5554 27-05-2021 19_08_56.png" height="400" weight="200">
