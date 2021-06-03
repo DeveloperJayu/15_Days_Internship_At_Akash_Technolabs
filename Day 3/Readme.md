@@ -4,4 +4,4 @@
 
 <h2> Output </h2>
 
-<img src="output.png">
+<img src="output.png" height="400" weight="200">
