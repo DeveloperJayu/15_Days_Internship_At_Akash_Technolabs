@@ -39,6 +39,11 @@ This repository is created for my daily task of 15 Days Internship At Akash Tech
     <td><b> Day:- 6 </b></td>
     <td><b> To create Number Converter </b></td>
   </tr>
+  
+  <tr>
+    <td><b> Day:- 7 </b></td>
+    <td><b> To create Credit Card Checker with LUHN Algorithm </b></td>
+  </tr>
 </table>
 
 
