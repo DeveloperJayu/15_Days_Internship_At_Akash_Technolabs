@@ -44,6 +44,11 @@ This repository is created for my daily task of 15 Days Internship At Akash Tech
     <td><b> Day:- 7 </b></td>
     <td><b> To create Credit Card Checker with LUHN Algorithm </b></td>
   </tr>
+  
+  <tr>
+    <td><b> Day:- 8 </b></td>
+    <td><b> To create Temperature Converter </b></td>
+  </tr>
 </table>
 
 
@@ -65,10 +70,19 @@ This repository is created for my daily task of 15 Days Internship At Akash Tech
 <p>In day 5, we have learnet about Activity life cycle, how to pass data to one activity to another activity, etc.</p>
 
 ## Day 6
-<p>In day 6, we have learnet about ListView, GridView and WebView</p>
+<p>In day 6, we have learnet about Splash Screen and Splash Screen with music in background.</p>
 
 ## Day 7
-<p>In day 7, we have learnet about Custom ListView and Custom GridView</p>
+<p>In day 7, we have learnet about ListView, GridView and WebView</p>
+
+## Day 8
+<p>In day 8, we have learnet about Custom ListView and Custom GridView</p>
+
+## Day 9
+<p>In day 9, we have learnet about Shared Preferences</p>
+
+## Day 10
+<p>In day 10, we have learnet about how to call, send Email, send SMS, Audio and Video inside Android</p>
 
 <br>
 <br>
