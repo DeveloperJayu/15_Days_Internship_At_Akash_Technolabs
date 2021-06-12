@@ -49,6 +49,16 @@ This repository is created for my daily task of 15 Days Internship At Akash Tech
     <td><b> Day:- 8 </b></td>
     <td><b> To create Temperature Converter </b></td>
   </tr>
+  
+  <tr>
+    <td><b> Day:- 9 </b></td>
+    <td><b> To add Splash Screen </b></td>
+  </tr>
+  
+  <tr>
+    <td><b> Day:- 10 </b></td>
+    <td><b> To add Admob Ads </b></td>
+  </tr>
 </table>
 
 
@@ -87,7 +97,7 @@ This repository is created for my daily task of 15 Days Internship At Akash Tech
 <br>
 <br>
 
-# Link for our own task application repo:- <a href="https://github.com/DeveloperJayu/Akash_Technolabs_Internship">Akash_Technolabs_Internship</a>
+## Link for our own task application repo:- <a href="https://github.com/DeveloperJayu/Akash_Technolabs_Internship">Akash_Technolabs_Internship</a>
 
 <br>
 <br>
